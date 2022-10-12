@@ -32,3 +32,9 @@ Running 1 test for test/FallbackExploit.sol:FallbackExploit
 [PASS] testExploit() (gas: 787126)
 Test result: ok. 1 passed; 0 failed; finished in 347.21µs
 ```
+
+## 🛡 Levels
+
+| N° | Name | Challenge | Solution |
+| -- | ---- | --------- | -------- |
+| 01 | Fallback | [link](https://github.com/OpenZeppelin/ethernaut/blob/master/contracts/contracts/levels/Fallback.sol) | [link](https://github.com/leovct/ethernaut/tree/main/test/FallbackExploit.sol) |
