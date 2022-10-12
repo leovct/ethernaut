@@ -1,4 +1,5 @@
 # 🔐 Ethernaut CTFs challenges and solutions
+Inspired by [ethernaut-x-foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
 ## 📌 Set up the project
 - Install [Foundry](https://github.com/foundry-rs/foundry#installation)
@@ -45,3 +46,4 @@ Test result: ok. 1 passed; 0 failed; finished in 478.54µs
 | N° | Name | Challenge | Solution |
 | -- | ---- | --------- | -------- |
 | 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/tree/main/test/FallbackExploit.sol) |
+| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/tree/main/test/FalloutExploit.sol) |
