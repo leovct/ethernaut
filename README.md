@@ -37,4 +37,4 @@ Test result: ok. 1 passed; 0 failed; finished in 433.08µs
 
 | N° | Name | Challenge | Solution |
 | -- | ---- | --------- | -------- |
-| 01 | Fallback | [link](https://github.com/OpenZeppelin/ethernaut/blob/master/contracts/contracts/levels/Fallback.sol) | [link](https://github.com/leovct/ethernaut/tree/main/test/FallbackExploit.sol) |
+| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/tree/main/test/FallbackExploit.sol) |
