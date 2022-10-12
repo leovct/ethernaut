@@ -104,6 +104,9 @@ Running 1 test for test/FalloutExploit.sol:FalloutExploit
 Test result: ok. 1 passed; 0 failed; finished in 400.21µs
 ```
 
+## Lint the files using [Solhint](https://github.com/protofire/solhint)
+`$ solhint 'src/*.sol' 'test/*.t.sol'`
+
 ## 🛡 Levels
 
 | N° | Name | Challenge | Solution |
