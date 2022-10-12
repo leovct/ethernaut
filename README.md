@@ -23,14 +23,14 @@ remappings = [
 ## 🧪 Run the exploits
 ```sh
 ethernaut git:(main) ✗ forge test                                                      
-[⠆] Compiling...
-[⠰] Compiling 9 files with 0.8.14
-[⠒] Solc 0.8.14 finished in 1.01s
+[⠢] Compiling...
+[⠔] Compiling 8 files with 0.6.12
+[⠑] Solc 0.6.12 finished in 1.24s
 Compiler run successful
 
 Running 1 test for test/FallbackExploit.sol:FallbackExploit
 [PASS] testExploit() (gas: 787126)
-Test result: ok. 1 passed; 0 failed; finished in 347.21µs
+Test result: ok. 1 passed; 0 failed; finished in 433.08µs
 ```
 
 ## 🛡 Levels
