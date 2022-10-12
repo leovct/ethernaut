@@ -22,15 +22,22 @@ remappings = [
 
 ## 🧪 Run the exploits
 ```sh
-ethernaut git:(main) ✗ forge test                                                      
+ethernaut git:(main) ✗ forge test -vvv
 [⠢] Compiling...
-[⠔] Compiling 8 files with 0.6.12
-[⠑] Solc 0.6.12 finished in 1.24s
+[⠘] Compiling 1 files with 0.6.12
+[⠃] Solc 0.6.12 finished in 457.05ms
 Compiler run successful
 
 Running 1 test for test/FallbackExploit.sol:FallbackExploit
-[PASS] testExploit() (gas: 787126)
-Test result: ok. 1 passed; 0 failed; finished in 433.08µs
+[PASS] testExploit() (gas: 788447)
+Logs:
+  Fallback contract owner: 0x185a4dc360ce69bdccee33b3784b0282f7961aea
+  New Fallback contract owner: 0x0000000000000000000000000000000000000539
+  Exploiter address: 0x0000000000000000000000000000000000000539
+  Fallback contract balance: 2
+  New Fallback contract balance: 0
+
+Test result: ok. 1 passed; 0 failed; finished in 478.54µs
 ```
 
 ## 🛡 Levels
