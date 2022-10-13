@@ -1,5 +1,16 @@
 name: test
-on: push
+on:
+  push:
+    paths:
+      # Workflow
+      - ".github/workflows/test.yml"
+      # Libraries and configuration files
+      - "lib/**/*"
+      - ".gitmodules"
+      - "foundry.toml"
+      # Contracts and tests
+      - "src/*.sol"
+      - "test/*.t.sol"
 env:
   FOUNDRY_PROFILE: ci
 jobs:
