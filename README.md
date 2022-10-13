@@ -9,6 +9,9 @@ Inspired by [ethernaut-x-foundry](https://github.com/ciaranmcveigh5/ethernaut-x-
 | 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/blob/main/test/FalloutExploit.t.sol#L27) | Typo |
 | 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xae9677ff69efB3C1B9559C8F2A9ED6a2212148e3) | [link](https://github.com/leovct/ethernaut/blob/main/test/CoinFlipExploit.t.sol#L31) | Pseudo-randomness using block.number and block.timestamp |
 | 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x466BDd41a04473A01031C9D80f61A9487C7ef488) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L35) | Authentication using tx.origin instead of msg.sender |
+| 05 | Token |
+| ... | ... |
+| 21 | Good Samaritan |
 
 ## 📌 Set up the project
 - Install [Foundry](https://github.com/foundry-rs/foundry#installation)
