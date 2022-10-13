@@ -111,7 +111,7 @@ Test result: ok. 1 passed; 0 failed; finished in 400.21µs
 
 | N° | Name | Challenge | Solution |
 | -- | ---- | --------- | -------- |
-| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/tree/main/test/FallbackExploit.t.sol) |
-| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/tree/main/test/FalloutExploit.t.sol) |
-| 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xae9677ff69efB3C1B9559C8F2A9ED6a2212148e3) | [link](https://github.com/leovct/ethernaut/tree/main/test/CoinFlipExploit.t.sol) |
-| 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x466BDd41a04473A01031C9D80f61A9487C7ef488) | [link](https://github.com/leovct/ethernaut/tree/main/test/TelephoneExploit.t.sol) |
+| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/tree/main/test/FallbackExploit.t.sol#L27) |
+| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/tree/main/test/FalloutExploit.t.sol#L27) |
+| 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xae9677ff69efB3C1B9559C8F2A9ED6a2212148e3) | [link](https://github.com/leovct/ethernaut/tree/main/test/CoinFlipExploit.t.sol#L31) |
+| 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x466BDd41a04473A01031C9D80f61A9487C7ef488) | [link](https://github.com/leovct/ethernaut/tree/main/test/TelephoneExploit.t.sol#L35) |
