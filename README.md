@@ -1,6 +1,15 @@
 # 🔐 Ethernaut CTFs challenges and solutions
 Inspired by [ethernaut-x-foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
+## 🛡 Challenges
+
+| N° | Name | Challenge | Solution | Topic |
+| -- | ---- | --------- | -------- | ----- |
+| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/blob/main/test/FallbackExploit.t.sol#L27) | Fallback function |
+| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/blob/main/test/FalloutExploit.t.sol#L27) | Typo |
+| 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xae9677ff69efB3C1B9559C8F2A9ED6a2212148e3) | [link](https://github.com/leovct/ethernaut/blob/main/test/CoinFlipExploit.t.sol#L31) | Pseudo-randomness using block.number and block.timestamp |
+| 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x466BDd41a04473A01031C9D80f61A9487C7ef488) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L35) | Authentication using tx.origin instead of msg.sender |
+
 ## 📌 Set up the project
 - Install [Foundry](https://github.com/foundry-rs/foundry#installation)
 - Create a new project: `$ forge init`
@@ -106,12 +115,3 @@ Test result: ok. 1 passed; 0 failed; finished in 400.21µs
 
 ## Lint the files using [Solhint](https://github.com/protofire/solhint)
 `$ solhint 'src/*.sol' 'test/*.t.sol'`
-
-## 🛡 Levels
-
-| N° | Name | Challenge | Solution |
-| -- | ---- | --------- | -------- |
-| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/blob/main/test/FallbackExploit.t.sol#L27) |
-| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/blob/main/test/FalloutExploit.t.sol#L27) |
-| 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xae9677ff69efB3C1B9559C8F2A9ED6a2212148e3) | [link](https://github.com/leovct/ethernaut/blob/main/test/CoinFlipExploit.t.sol#L31) |
-| 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x466BDd41a04473A01031C9D80f61A9487C7ef488) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L35) |
