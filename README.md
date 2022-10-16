@@ -5,11 +5,11 @@ Inspired by [ethernaut-x-foundry](https://github.com/ciaranmcveigh5/ethernaut-x-
 
 | N° | Name | Challenge | Solution | Topic |
 | -- | ---- | --------- | -------- | ----- |
-| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x6F9cf195B9B4c1259E8FCe5b4e30F7142f779DeA) | [link](https://github.com/leovct/ethernaut/blob/main/test/FallbackExploit.t.sol#L27) | Fallback function |
-| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x40F5513a90fb7e2ac2C3E12A6d16B9279D1e94Ed) | [link](https://github.com/leovct/ethernaut/blob/main/test/FalloutExploit.t.sol#L27) | Typo |
-| 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xae9677ff69efB3C1B9559C8F2A9ED6a2212148e3) | [link](https://github.com/leovct/ethernaut/blob/main/test/CoinFlipExploit.t.sol#L31) | Pseudo-randomness using block.number and block.timestamp |
-| 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x466BDd41a04473A01031C9D80f61A9487C7ef488) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L34) | Authentication using tx.origin instead of msg.sender |
-| 05 | Token | [link](https://ethernaut.openzeppelin.com/level/0xDc0c34CFE029b190Fc4A6eD5219BF809F04E57A3) | [link](https://github.com/leovct/ethernaut/blob/main/test/TokenExploit.t.sol#L31) | Arithmetic underflow / owerflow |
+| 01 | Fallback | [link](https://ethernaut.openzeppelin.com/level/0x676e57FdBbd8e5fE1A7A3f4Bb1296dAC880aa639) | [link](https://github.com/leovct/ethernaut/blob/main/test/FallbackExploit.t.sol#L27) | Fallback function |
+| 02 | Fallout | [link](https://ethernaut.openzeppelin.com/level/0x3c34A342b2aF5e885FcaA3800dB5B205fEfa3ffB) | [link](https://github.com/leovct/ethernaut/blob/main/test/FalloutExploit.t.sol#L27) | Typo |
+| 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xf90e955F65Cb284416A77cED85855a3dB2f2b6b3) | [link](https://github.com/leovct/ethernaut/blob/main/test/CoinFlipExploit.t.sol#L31) | Pseudo-randomness using block.number and block.timestamp |
+| 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x422c89fD8D92EDDa54640F06C3160E82043e106C) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L34) | Authentication using tx.origin instead of msg.sender |
+| 05 | Token | [link](https://ethernaut.openzeppelin.com/level/0xA62fE5344FE62AdC1F356447B669E9E6D10abaaF) | [link](https://github.com/leovct/ethernaut/blob/main/test/TokenExploit.t.sol#L31) | Arithmetic underflow / owerflow |
 | ... | ... |
 | 21 | Good Samaritan |
 
