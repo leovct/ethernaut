@@ -1,5 +1,6 @@
 # 🔐 Ethernaut CTFs challenges and solutions
-Inspired by [ethernaut-x-foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
+- Browse [Ethernaut challenges](https://ethernaut.openzeppelin.com/)
+- Inspired by [ethernaut-x-foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
 ## 🛡 Challenges
 
