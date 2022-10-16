@@ -11,6 +11,7 @@
 | 03 | CoinFlip | [link](https://ethernaut.openzeppelin.com/level/0xf90e955F65Cb284416A77cED85855a3dB2f2b6b3) | [link](https://github.com/leovct/ethernaut/blob/main/test/CoinFlipExploit.t.sol#L31) | Pseudo-randomness using block.number and block.timestamp |
 | 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x422c89fD8D92EDDa54640F06C3160E82043e106C) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L34) | Authentication using tx.origin instead of msg.sender |
 | 05 | Token | [link](https://ethernaut.openzeppelin.com/level/0xA62fE5344FE62AdC1F356447B669E9E6D10abaaF) | [link](https://github.com/leovct/ethernaut/blob/main/test/TokenExploit.t.sol#L31) | Arithmetic underflow / owerflow |
+| 06 | Delegation | [link](https://ethernaut.openzeppelin.com/level/0x391E93139F0D57F3294E96e71BCD1Dc69F83D44e) | [link](https://github.com/leovct/ethernaut/blob/main/test/DelegationExploit.t.sol#L28) | Delegatecall |
 | ... | ... |
 | 21 | Good Samaritan |
 
