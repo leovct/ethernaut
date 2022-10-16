@@ -12,6 +12,7 @@
 | 04 | Telephone | [link](https://ethernaut.openzeppelin.com/level/0x422c89fD8D92EDDa54640F06C3160E82043e106C) | [link](https://github.com/leovct/ethernaut/blob/main/test/TelephoneExploit.t.sol#L34) | Authentication using tx.origin instead of msg.sender |
 | 05 | Token | [link](https://ethernaut.openzeppelin.com/level/0xA62fE5344FE62AdC1F356447B669E9E6D10abaaF) | [link](https://github.com/leovct/ethernaut/blob/main/test/TokenExploit.t.sol#L31) | Arithmetic underflow / owerflow |
 | 06 | Delegation | [link](https://ethernaut.openzeppelin.com/level/0x391E93139F0D57F3294E96e71BCD1Dc69F83D44e) | [link](https://github.com/leovct/ethernaut/blob/main/test/DelegationExploit.t.sol#L28) | Delegatecall |
+| 07 | Force | [link](https://ethernaut.openzeppelin.com/level/0x708f096A1AE25dD1b2De076fA90F5158bb01D209) | [link](https://github.com/leovct/ethernaut/blob/main/test/ForceExploit.t.sol#L38) | Use selfdestruct to send ethers to a contract |
 | ... | ... |
 | 21 | Good Samaritan |
 
